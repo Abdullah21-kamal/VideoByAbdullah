@@ -20,9 +20,9 @@ Supports YouTube, Facebook, TikTok, Vimeo, and 1000+ other platforms.
 
 > No Python needed — just download and double-click.
 
-**[[[https://drive.google.com/file/d/1ROmwkFX9ZABcQWcy5bZhl7YdgDkZ4W2w/view?usp=sharing](#)]**
+**[Download VideoByAbdullah.exe](https://drive.google.com/file/d/1ROmwkFX9ZABcQWcy5bZhl7YdgDkZ4W2w/view)**
 
->  Windows may show "Windows protected your PC" — click **More info** → **Run anyway**. This is normal for unsigned apps.
+> ⚠️ Windows may show "Windows protected your PC" — click **More info** → **Run anyway**. This is normal for unsigned apps.
 
 ---
 
@@ -70,4 +70,4 @@ This app was built with good intentions — let's keep it that way. 🤲
 
 ## Author
 
-Built by **Abdullah** — feel free to reach out on LinkedIn!
+Built by **Abdullah** — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/abd-ullah-kamal/)
